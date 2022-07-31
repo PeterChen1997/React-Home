@@ -1,0 +1,12 @@
+{
+  "name": "React-Home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PeterChen1997/React-Home.git",
+  "author": "Peter Chen <13093023233@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "use-subscription": "^1.8.0"
+  }
+}
