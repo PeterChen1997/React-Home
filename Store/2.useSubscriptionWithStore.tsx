@@ -23,6 +23,7 @@ const Component1 = () => {
     /*
     const state = useSubscription(useMemo(() => ({            
         getCurrentValue: () => store.getState().count1,        
+        subscribe: store.subscribe,                            
     }), []));                                           
     */
     const inc = () => {
